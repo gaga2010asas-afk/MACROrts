@@ -17,8 +17,8 @@
 
 ## 🛠 Инструменты разработки (Made with)
 Эта игра — результат работы не только рук, но и собственных AI-инструментов разработчика:
-*   🧠 **[GAGA Vibe Studio Code (GVSC)](ссылка_на_репо_GVSC)** — AI-First IDE для генерации кода через VIBE-скрипты.
-*   🎨 **[PAI Studio](ссылка_на_репо_PAI)** — собственный движок для генерации 3D-воксельной графики.
+* 🧠 **[GAGA Vibe Studio Code (GVSC)](https://github.com/gaga2010asas-afk/GVSC)** — кастомная AI-First среда разработки.
+* 🎨 **[PAI Studio](https://github.com/gaga2010asas-afk/PAI)** — собственный движок для генерации 3D-воксельной графики.
 
 ## 📥 Скачать и играть
 Перейдите в раздел **[Releases](https://github.com/gaga2010asas-afk/MACROrts/releases)** и скачайте последний `.apk` файл на свой Android-смартфон.
